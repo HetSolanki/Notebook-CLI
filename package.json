@@ -1,18 +1,18 @@
 {
   "name": "notebook",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "This is an custome command-line app which provides way to keep records on local files",
   "main": "index.js",
   "type": "module",
   "bin": {
-    "record": "index.js"
+    "record": "./index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": ["notebook"],
   "author": "Het Solanki",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "record": "^0.2.0",
     "yargs": "^17.7.2"
