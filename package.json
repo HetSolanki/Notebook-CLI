@@ -1,5 +1,5 @@
 {
-  "name": "notebook",
+  "name": "notebook_keep_records",
   "version": "0.0.1",
   "description": "This is an custome command-line app which provides way to keep records on local files",
   "main": "index.js",
